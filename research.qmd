@@ -1,0 +1,306 @@
+---
+title: "Research"
+---
+
+<style>
+  ol{
+    text-align: justify;
+  }
+</style>
+
+A full list is available from the following <a href="https://scholar.google.com/citations?user=IWLDxjsAAAAJ">Google Scholar</a> profile.
+
+## Journal Articles
+<ol reversed>
+<li>
+A. Ramirez, <strong>E. Lam</strong>, D. P. Gutierrez, Y. Hou, H. Tribukait, L. M. Roch, C. Copéret, P. Laveille 
+<a rel="noreferrer noopener" href="
+https://www.sciencedirect.com/science/article/pii/S266710932300489X" data-type="URL" data-id="
+https://www.sciencedirect.com/science/article/pii/S266710932300489X" target="_blank">Accelerated exploration of heterogeneous CO2 hydrogenation catalysts by Bayesian-optimized high-throughput and automated experimentation</a>. 
+<em>Chem Catal.</em>, 
+<b>2024</b>, 
+<em> 4</em>, 
+100888
+</li>
+<li>
+<strong>E. Lam</strong>, S.R. Rodriguez-Jimenez, S. Bhattacharjee, E. Reisner 
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1039/D3GC03258B" data-type="URL" data-id="
+https://doi.org/10.1039/D3GC03258B" target="_blank">Valorisation of lignocellulose and low concentration CO2 using a fractionation–photocatalysis–electrolysis process</a>. 
+<em>Green Chem.</em>, 
+<b>2023</b>, 
+<em> 25</em>, 
+10611
+</li>
+<li>
+S. Bhattacharjee, C. Guo, <strong>E. Lam</strong>, J.M. Holstein, M.R. Pereira, C.M. Pichler, C. Pornrungroj, M. Rahaman, T. Uekert, F. Hollfelder, E. Reisner
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1021/jacs.3c05486" data-type="URL" data-id="
+https://doi.org/10.1021/jacs.3c05486" target="_blank">Chemoenzymatic Photoreforming: A Sustainable Approach for Solar Fuel Generation from Plastic Feedstocks</a>. 
+<em>J. Am. Chem. Soc.</em>, 
+<b>2023</b>, 
+<em>145</em>, 
+20355
+</li>
+<li>
+M. Rahaman, V. Andrei, D. Wright, <strong>E. Lam</strong>, C. Pornrungroj, S. Bhattacharjee, C.M Pichler, H. Greer, J. Baumberg, E. Reisner
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1038/s41560-023-01262-3" data-type="URL" data-id="
+https://doi.org/10.1038/s41560-023-01262-3" target="_blank">Solar-driven Liquid Multicarbon Fuel Production Using a Standalone 	Perovskite-BiVO4 Artificial Leaf</a>. 
+<em>Nat. Energy</em>, 
+<b>2023</b>, 
+<em>8</em>, 
+629
+</li>
+<li>
+P. Laveille, P. Miéville, S. Chatterjee, E. Clerc, J.-C. Cousty, F. de Nanteuil,  <strong>E. Lam</strong>, E. Mariano, A. Ramirez, U. Randrianarisoa, K. Villat, C. Copéret, N. Cramer
+<a rel="noreferrer noopener" href="
+https://doi.org/10.2533/chimia.2023.154" data-type="URL" data-id="
+https://doi.org/10.2533/chimia.2023.154" target="_blank">Swiss CAT+, a Data-driven Infrastructure for Accelerated Catalysts Discovery and Optimization</a>. 
+<em>Chimia </em>, 
+<b>2023</b>, 
+<em>77</em>, 
+154
+</li>
+<li>
+<strong>E. Lam</strong>, M. Miller, S. Linley, R.R. Manuel, I.A.C. Pereira, E. Reisner
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1002/anie.202215894" data-type="URL" data-id="
+https://doi.org/10.1002/anie.202215894" target="_blank">Comproportionation of CO2 and Cellulose to Formate Using a Floating Semiconductor-Enzyme Photoreforming Catalyst</a>. 
+<em>Angew. Chem., Int. Ed.</em>, 
+<b>2023</b>, 
+<em>62</em>, 
+e202215894
+</li>
+<li>
+S. Bhattacharjee, M. Rahaman, V. Andrei, M. Miller, S. Rodriguez-Jimenez, <strong>E. Lam</strong>, C. Pornrungroj, E. Reisner
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1038/s44160-022-00196-0" data-type="URL" data-id="
+https://doi.org/10.1038/s44160-022-00196-0" target="_blank">Photoelectrochemical CO2-to-fuel Conversion with Simultaneous Plastic Reforming</a>. 
+<em>Nat. Synth.</em>, 
+<b>2023</b>, 
+<em>2</em>, 
+182
+</li>
+<li>
+C. Pichler S. Bhattacharjee, <strong>E. Lam</strong>, L. Su, A. Collauto, M. Rössler, S. Cobb, V. Badiani, M. Rahaman, E. Reisner
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1021/acscatal.2c02689" data-type="URL" data-id="
+https://doi.org/10.1021/acscatal.2c02689" target="_blank">Bio-electrocatalytic Conversion of Food Waste to Ethylene via Succinic 	Acid as the Central Intermediate</a>. 
+<em>ACS Catal.</em>, 
+<b>2022</b>, 
+<em>12</em>, 
+13360
+</li>
+<li>
+S. Rodriguez-Jimenez, H. Song, <strong>E. Lam</strong>, D. Wright, A. Pannwith, S.A. Bonke, J.J. Baumberg, E. Reisner
+<a rel="noreferrer noopener" href="
+https://pubs.acs.org/doi/10.1021/jacs.2c01725" data-type="URL" data-id="
+https://pubs.acs.org/doi/10.1021/jacs.2c01725" target="_blank">Self-Assembled Liposomes Enhance Electron Transfer 	for Efficient Photocatalytic CO2 Reduction</a>. 
+<em>J. Am. Chem. Soc.</em>, 
+<b>2022</b>, 
+<em>144</em>, 
+9399
+</li>
+<li>
+M. Tanriver, Y.-C. Dzeng, S. Da Ros, <strong>E. Lam</strong>, J.W. Bode
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1021/jacs.1c07354" data-type="URL" data-id="
+https://doi.org/10.1021/jacs.1c07354" target="_blank">Mechanism-Based Design of Quinoline 	Potassium Acyltrifluoroborates for Rapid Amide-Forming Ligations at Physiological pH</a>. 
+<em>J. Am. Chem. Soc.</em>, 
+<b>2021</b>, 
+<em>143</em>, 
+17557
+</li>
+<li>
+H. Zhou, Z. Chen, A.V. Lopez, E.D. Lopez, <strong>E. Lam</strong>, A. Tsoukalou, E. Willinger, D.A. Kuznetsov, D. Mance, A. Kierzkowska, F. Donat, P.M. Donat, A. Comas-Vives, C. Copéret, A. Fedorov, C.M. Müller
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1038/s41929-021-00684-0" data-type="URL" data-id="
+https://doi.org/10.1038/s41929-021-00684-0" target="_blank">Engineering the Cu/Mo2CTx (MXene) Interface to Drive CO2 Hydrogenation to Methanol</a>. 
+<em>Nat. Catal.</em>, 
+<b>2021</b>, 
+<em>4</em>, 
+860
+</li>
+<li>
+<strong>E. Lam</strong>, E. Reisner
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1002/anie.202108492" data-type="URL" data-id="
+https://doi.org/10.1002/anie.202108492" target="_blank">A TiO2-Co(terpyridine)2 Photocatalyst for the Selective Oxidation of Cellulose to Formate Coupled to the Reduction of CO2 to Syngas</a>. 
+<em>Angew. Chem., Int. Ed.</em>, 
+<b>2021</b>, 
+<em>60</em>, 
+23306
+</li>
+<li>
+S.R. Docherty, N. Phongprueksathat, <strong>E. Lam</strong>, G. Noh, O.V. Safonova, A. Urakawa, C. Copéret
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1021/jacsau.1c00021" data-type="URL" data-id="
+https://doi.org/10.1021/jacsau.1c00021" target="_blank">Silica-Supported PdGa Nanoparticles: Metal Synergy for Highly Active and Selective CO2-to-CH3OH 	Hydrogenation</a>. 
+<em>JACS Au</em>, 
+<b>2021</b>, 
+<em>1</em>, 
+450
+</li>
+<li>
+G. Noh, <strong>E. Lam</strong>, D.T. Bregante, J. Meyet, P. Sot, D.W. Flaherty, C. Copéret
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1002/anie.202100672" data-type="URL" data-id="
+https://doi.org/10.1002/anie.202100672" target="_blank">Lewis Acid Strength of Interfacial Metal Sites Drives CH3OH Selectivity and Formation Rates on Cu-Based CO2 Hydrogenation Catalysts</a>. 
+<em>Angew. Chem., Int. Ed.</em>, 
+<b>2021</b>, 
+<em>60</em>, 
+9650
+</li>
+<li>
+<strong>E. Lam</strong>, G. Noh, K. Larmier, O.V. Safonova, C. Copéret
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1016/j.jcat.2020.04.028" data-type="URL" data-id="
+https://doi.org/10.1016/j.jcat.2020.04.028" target="_blank">CO2 Hydrogenation on Cu-catalysts Generated from ZnII Single-Sites: Enhanced CH3OH Selectivity Compared to Cu/ZnO/Al2O3</a>. 
+<em>J. 	Catal.</em>, 
+<b>2021</b>, 
+<em>394</em>, 
+266
+</li>
+<li>
+<strong>E. Lam</strong>, G. Noh, K.W. Chan, K. Larmier, D. Levedev, K. Searles, P. Wolf, O.V. Safonova, C. Copéret
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1039/D0SC00465K" data-type="URL" data-id="
+https://doi.org/10.1039/D0SC00465K" target="_blank">Enhanced CH3OH selectivity in CO2 Hydrogenation Using Cu-based Catalysts 	Generated via SOMC from GaIII Single-sites</a>. 
+<em>Chem. Sci.</em>, 
+<b>2020</b>, 
+<em>11</em>, 
+7593
+</li>
+<li>
+L. Lätsch, <strong>E. Lam</strong>, C. Copéret
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1039/D0SC02321C" data-type="URL" data-id="
+https://doi.org/10.1039/D0SC02321C" target="_blank">Electronegativity and Location of Anionic Ligands Drive Yttrium NMR for Molecular, Surface and Solid-State Structures</a>. 
+<em>Chem. Sci.</em>, 
+<b>2020</b>, 
+<em>11</em>, 
+6724
+</li>
+<li>
+M. Pucino, W.-C. Liao, K.W. Chan, <strong>E. Lam</strong>, R. Schowner, P. Zhikho, M. Buchmeiser, C. Copéret
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1002/hlca.202000072" data-type="URL" data-id="
+https://doi.org/10.1002/hlca.202000072" target="_blank">Metal-Surface Interactions and Surface Heterogeneity in “Well-Defined” Silica-Supported Alkene 	Metathesis Catalyst: Evidences and Consequences</a>. 
+<em>Helv. Chim. Acta</em>, 
+<b>2020</b>, 
+<em>103</em>, 
+e2000072
+</li>
+<li>
+G. Noh, S.R. Docherty, <strong>E. Lam</strong>, X. Huang, D. Mance, J.L. Alfke, C. Copéret
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1021/acs.jpcc.9b09631" data-type="URL" data-id="
+https://doi.org/10.1021/acs.jpcc.9b09631" target="_blank">CO2 Hydrogenation 	to CH3OH on Supported Cu Nanoparticles: Nature and Role of Ti in Bulk Oxides vs Isolated Surface Sites</a>. 
+<em>J. Phys. Chem. C</em>, 
+<b>2019</b>, 
+<em>123</em>, 
+31082
+</li>
+<li>
+<strong>E. Lam</strong>, J.J. Corral-Pèrez, K. Larmier, G. Noh P. Wolf, A. Comas-Vives, A. Urakawa, C. Copéret
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1002/anie.201908060" data-type="URL" data-id="
+https://doi.org/10.1002/anie.201908060" target="_blank">CO2 Hydrogenation on Cu/Al2O3: Role of Metal/Support Interface in Driving Activity and Selectivity 	of a Bifunctional Catalyst</a>. 
+<em>Angew, Chem., Int. Ed.</em>, 
+<b>2019</b>, 
+<em>131</em>, 
+14127
+</li>
+<li>
+<strong>E. Lam</strong>, K. Larmier, S. Tada, P. Wolf, O.V. Safonova, C. Copéret
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1016/S1872-2067(19)63348-6" data-type="URL" data-id="
+https://doi.org/10.1016/S1872-2067(19)63348-6" target="_blank">Zr(IV) Surface Sites Determine 	CH3OH Formation Rate on Cu/ZrO2/SiO2 – CO2 Hydrogenation Catalysts</a>. 
+<em>Chinese J. Catal.</em>, 
+<b>2019</b>, 
+<em>40</em>, 
+1741
+</li>
+<li>
+G. Noh, <strong>E. Lam</strong>, J.L. Alfke, K. Larmier, K. Searles, P. Wolf, C. Copéret
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1002/cssc.201900134" data-type="URL" data-id="
+https://doi.org/10.1002/cssc.201900134" target="_blank">Selective Hydrogenation of CO2 to CH3OH on Supported Cu Nanoparticles Promoted by Isolated TiIV Surface Sites on SiO2</a>. 
+<em>ChemSusChem</em>, 
+<b>2019</b>, 
+<em>12</em>, 
+968
+</li>
+<li>
+K.W. Chan, <strong>E. Lam</strong>, V. D'Anna, F. Allouche, C. Michel, O.V. Safonova, P. Sautet, C. Copéret
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1021/jacs.8b06603" data-type="URL" data-id="
+https://doi.org/10.1021/jacs.8b06603" target="_blank">C-H Activation and Proton Transfer Initiate Alkene Metathesis Activity of the Tungsten (IV)-Oxo Complex</a>. 
+<em>J. Am. Chem. Soc.</em>, 
+<b>2018</b>, 
+<em>140</em>, 
+11395
+</li>
+<li>
+<strong>E. Lam</strong>, C. Copéret
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1002/hlca.201800120" data-type="URL" data-id="
+https://doi.org/10.1002/hlca.201800120" target="_blank">Understanding Trends in 27Al Chemical Shifts and Quadrupolar Coupling Constant in Chloroalkyl Aluminum [AlClx(Me)3-x]n=1 or 2 Compounds</a>. 
+<em>Helv. Chim. Acta</em>, 
+<b>2018</b>, 
+<em>101</em>, 
+e1800120
+</li>
+<li>
+<strong>E. Lam</strong>, K. Larmier, P. Wolf, S. Tada, O.V. Safonova, C. Copéret
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1021/jacs.8b05595" data-type="URL" data-id="
+https://doi.org/10.1021/jacs.8b05595" target="_blank">Isolated Zr Surface Sites on 	Silica Promote Hydrogenation of CO2 to CH3OH in Supported Cu Catalysts</a>. 
+<em>J. Am. Chem. Soc.</em>, 
+<b>2018</b>, 
+<em>140</em>, 
+10530
+</li>
+<li>
+<strong>E. Lam</strong>, A. Comas-Vives, C. Copéret
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1021/acs.jpcc.7b07872" data-type="URL" data-id="
+https://doi.org/10.1021/acs.jpcc.7b07872" target="_blank">Role of Coordination Number, Geometry, and Local Disorder on 27Al NMR Chemical Shifts and Quadrupolar Coupling Constants: Case Study with 	Aluminosilicates</a>. 
+<em>J. Phys. Chem. C</em>, 
+<b>2017</b>, 
+<em>121</em>, 
+19946
+</li>
+<li>
+D.P. Estes, A.K. Cook, <strong>E. Lam</strong>, L. Wong, C. Copéret
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1021/acs.inorgchem.7b00443" data-type="URL" data-id="
+https://doi.org/10.1021/acs.inorgchem.7b00443" target="_blank">Understanding the Lewis Acidity of Co(II) Sites on a Silica Surface</a>. 
+<em>Inorg. Chem.</em>, 
+<b>2017</b>, 
+<em>56</em>, 
+7731
+</li>
+<li>
+K. Larmier, W.-C. Liao, S. Tada, <strong>E. Lam</strong>, R. Verel, A. Bansode, A. Urakawa, A. Comas-Vivees, C. Copéret
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1002/anie.201610166" data-type="URL" data-id="
+https://doi.org/10.1002/anie.201610166" target="_blank">CO2-to-Methanol Hydrogenation on Zirconia-Supported Copper Nanoparticles: Reaction 	Intermediates and the Role of the Metal-Support Interface</a>. 
+<em>Angew. Chem., Int. Ed.</em>, 
+<b>2017</b>, 
+<em>129</em>, 
+2358
+</li>
+<li>
+D. Martinez-Solorio, B. Belilo, L. Sanchez, Y. Liang, E. Lam, K.N. Houk, A.B. Smith III
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1021/jacs.5b13260" data-type="URL" data-id="
+https://doi.org/10.1021/jacs.5b13260" target="_blank">Design, Synthesis, and Validation of an Effective, Reusable Silicon-Based Transfer Agent for Room-Temperature Pd-Catalyzed Cross-Coupling Reactions of Aryl and Heteroaryl Chlorides with Readily Available Aryl Lithium Reagents</a>. 
+<em>J. Am. Chem. Soc.</em>, 
+<b>2016</b>, 
+<em>138</em>, 
+1836
+<div data-badge-type="2" data-doi="10.1021/jacs.5b13260" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div></li>
+</li>
+</ol>
