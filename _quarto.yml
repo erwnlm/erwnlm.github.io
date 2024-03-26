@@ -11,11 +11,12 @@ website:
     left:
       - CV.qmd
       - research.qmd
- #     - text: Project
- #     menu: 
- #         - project1.qmd
- #         - project2.qmd
- #         - project3.qmd
+#      - text: Project
+#        menu: 
+#          - project1.qmd
+#          - text: Project2
+#          - project3.qmd
+
     right:
       - text: "{{< fa graduation-cap size=lg >}}"
         href: https://scholar.google.com/citations?user=IWLDxjsAAAAJ
@@ -25,6 +26,7 @@ format:
   html:
     theme:
       light: flatly
-    css: style.css
+    css: 
+      - style.css
     link-external-newwindow: true
 

@@ -1,18 +1,33 @@
 ---
 title: "Research"
 ---
-
 <style>
   ol{
     text-align: justify;
   }
+
 </style>
+
 
 A full list is available from the following <a href="https://scholar.google.com/citations?user=IWLDxjsAAAAJ">Google Scholar</a> profile.
 
 ## Journal Articles
 <ol reversed>
-<li>
+<li id="hover-text">
+D. Kim, S. Bhattacharjee, <strong>E. Lam</strong>, C. Casadevall, S. Rodriguez-Jimenez, E. Reisner  
+<a rel="noreferrer noopener" href="
+https://onlinelibrary.wiley.com/doi/10.1002/smll.202400057" data-type="URL" data-id="
+https://onlinelibrary.wiley.com/doi/10.1002/smll.202400057" target="_blank">Photocatalytic CO2 Reduction Using Homogeneous Carbon Dots with a Molecular Cobalt Catalyst</a>. 
+<em>Small.</em>, 
+<b>2024</b>, 
+<em>NA</em>, 
+2400057
+</li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref30.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 A. Ramirez, <strong>E. Lam</strong>, D. P. Gutierrez, Y. Hou, H. Tribukait, L. M. Roch, C. Copéret, P. Laveille 
 <a rel="noreferrer noopener" href="
 https://www.sciencedirect.com/science/article/pii/S266710932300489X" data-type="URL" data-id="
@@ -22,7 +37,11 @@ https://www.sciencedirect.com/science/article/pii/S266710932300489X" target="_bl
 <em> 4</em>, 
 100888
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref29.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 <strong>E. Lam</strong>, S.R. Rodriguez-Jimenez, S. Bhattacharjee, E. Reisner 
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1039/D3GC03258B" data-type="URL" data-id="
@@ -32,7 +51,11 @@ https://doi.org/10.1039/D3GC03258B" target="_blank">Valorisation of lignocellulo
 <em> 25</em>, 
 10611
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref28.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 S. Bhattacharjee, C. Guo, <strong>E. Lam</strong>, J.M. Holstein, M.R. Pereira, C.M. Pichler, C. Pornrungroj, M. Rahaman, T. Uekert, F. Hollfelder, E. Reisner
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1021/jacs.3c05486" data-type="URL" data-id="
@@ -42,7 +65,11 @@ https://doi.org/10.1021/jacs.3c05486" target="_blank">Chemoenzymatic Photoreform
 <em>145</em>, 
 20355
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref27.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 M. Rahaman, V. Andrei, D. Wright, <strong>E. Lam</strong>, C. Pornrungroj, S. Bhattacharjee, C.M Pichler, H. Greer, J. Baumberg, E. Reisner
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1038/s41560-023-01262-3" data-type="URL" data-id="
@@ -52,7 +79,11 @@ https://doi.org/10.1038/s41560-023-01262-3" target="_blank">Solar-driven Liquid 
 <em>8</em>, 
 629
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref26.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 P. Laveille, P. Miéville, S. Chatterjee, E. Clerc, J.-C. Cousty, F. de Nanteuil,  <strong>E. Lam</strong>, E. Mariano, A. Ramirez, U. Randrianarisoa, K. Villat, C. Copéret, N. Cramer
 <a rel="noreferrer noopener" href="
 https://doi.org/10.2533/chimia.2023.154" data-type="URL" data-id="
@@ -62,7 +93,11 @@ https://doi.org/10.2533/chimia.2023.154" target="_blank">Swiss CAT+, a Data-driv
 <em>77</em>, 
 154
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref25.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 <strong>E. Lam</strong>, M. Miller, S. Linley, R.R. Manuel, I.A.C. Pereira, E. Reisner
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1002/anie.202215894" data-type="URL" data-id="
@@ -72,7 +107,11 @@ https://doi.org/10.1002/anie.202215894" target="_blank">Comproportionation of CO
 <em>62</em>, 
 e202215894
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref24.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 S. Bhattacharjee, M. Rahaman, V. Andrei, M. Miller, S. Rodriguez-Jimenez, <strong>E. Lam</strong>, C. Pornrungroj, E. Reisner
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1038/s44160-022-00196-0" data-type="URL" data-id="
@@ -82,7 +121,11 @@ https://doi.org/10.1038/s44160-022-00196-0" target="_blank">Photoelectrochemical
 <em>2</em>, 
 182
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref23.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 C. Pichler S. Bhattacharjee, <strong>E. Lam</strong>, L. Su, A. Collauto, M. Rössler, S. Cobb, V. Badiani, M. Rahaman, E. Reisner
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1021/acscatal.2c02689" data-type="URL" data-id="
@@ -92,7 +135,11 @@ https://doi.org/10.1021/acscatal.2c02689" target="_blank">Bio-electrocatalytic C
 <em>12</em>, 
 13360
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref22.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 S. Rodriguez-Jimenez, H. Song, <strong>E. Lam</strong>, D. Wright, A. Pannwith, S.A. Bonke, J.J. Baumberg, E. Reisner
 <a rel="noreferrer noopener" href="
 https://pubs.acs.org/doi/10.1021/jacs.2c01725" data-type="URL" data-id="
@@ -102,7 +149,11 @@ https://pubs.acs.org/doi/10.1021/jacs.2c01725" target="_blank">Self-Assembled Li
 <em>144</em>, 
 9399
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref21.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 M. Tanriver, Y.-C. Dzeng, S. Da Ros, <strong>E. Lam</strong>, J.W. Bode
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1021/jacs.1c07354" data-type="URL" data-id="
@@ -112,7 +163,11 @@ https://doi.org/10.1021/jacs.1c07354" target="_blank">Mechanism-Based Design of 
 <em>143</em>, 
 17557
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref20.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 H. Zhou, Z. Chen, A.V. Lopez, E.D. Lopez, <strong>E. Lam</strong>, A. Tsoukalou, E. Willinger, D.A. Kuznetsov, D. Mance, A. Kierzkowska, F. Donat, P.M. Donat, A. Comas-Vives, C. Copéret, A. Fedorov, C.M. Müller
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1038/s41929-021-00684-0" data-type="URL" data-id="
@@ -122,7 +177,11 @@ https://doi.org/10.1038/s41929-021-00684-0" target="_blank">Engineering the Cu/M
 <em>4</em>, 
 860
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref19.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 <strong>E. Lam</strong>, E. Reisner
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1002/anie.202108492" data-type="URL" data-id="
@@ -132,7 +191,11 @@ https://doi.org/10.1002/anie.202108492" target="_blank">A TiO2-Co(terpyridine)2 
 <em>60</em>, 
 23306
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref18.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 S.R. Docherty, N. Phongprueksathat, <strong>E. Lam</strong>, G. Noh, O.V. Safonova, A. Urakawa, C. Copéret
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1021/jacsau.1c00021" data-type="URL" data-id="
@@ -142,7 +205,11 @@ https://doi.org/10.1021/jacsau.1c00021" target="_blank">Silica-Supported PdGa Na
 <em>1</em>, 
 450
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref17.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 G. Noh, <strong>E. Lam</strong>, D.T. Bregante, J. Meyet, P. Sot, D.W. Flaherty, C. Copéret
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1002/anie.202100672" data-type="URL" data-id="
@@ -152,7 +219,11 @@ https://doi.org/10.1002/anie.202100672" target="_blank">Lewis Acid Strength of I
 <em>60</em>, 
 9650
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref16.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 <strong>E. Lam</strong>, G. Noh, K. Larmier, O.V. Safonova, C. Copéret
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1016/j.jcat.2020.04.028" data-type="URL" data-id="
@@ -162,8 +233,12 @@ https://doi.org/10.1016/j.jcat.2020.04.028" target="_blank">CO2 Hydrogenation on
 <em>394</em>, 
 266
 </li>
-<li>
-<strong>E. Lam</strong>, G. Noh, K.W. Chan, K. Larmier, D. Levedev, K. Searles, P. Wolf, O.V. Safonova, C. Copéret
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref15.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
+<strong>E. Lam</strong>, G. Noh, K.W. Chan, K. Larmier, D. Lebedev, K. Searles, P. Wolf, O.V. Safonova, C. Copéret
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1039/D0SC00465K" data-type="URL" data-id="
 https://doi.org/10.1039/D0SC00465K" target="_blank">Enhanced CH3OH selectivity in CO2 Hydrogenation Using Cu-based Catalysts 	Generated via SOMC from GaIII Single-sites</a>. 
@@ -172,7 +247,11 @@ https://doi.org/10.1039/D0SC00465K" target="_blank">Enhanced CH3OH selectivity i
 <em>11</em>, 
 7593
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref14.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 L. Lätsch, <strong>E. Lam</strong>, C. Copéret
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1039/D0SC02321C" data-type="URL" data-id="
@@ -182,7 +261,11 @@ https://doi.org/10.1039/D0SC02321C" target="_blank">Electronegativity and Locati
 <em>11</em>, 
 6724
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref13.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 M. Pucino, W.-C. Liao, K.W. Chan, <strong>E. Lam</strong>, R. Schowner, P. Zhikho, M. Buchmeiser, C. Copéret
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1002/hlca.202000072" data-type="URL" data-id="
@@ -192,17 +275,25 @@ https://doi.org/10.1002/hlca.202000072" target="_blank">Metal-Surface Interactio
 <em>103</em>, 
 e2000072
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref12.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 G. Noh, S.R. Docherty, <strong>E. Lam</strong>, X. Huang, D. Mance, J.L. Alfke, C. Copéret
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1021/acs.jpcc.9b09631" data-type="URL" data-id="
-https://doi.org/10.1021/acs.jpcc.9b09631" target="_blank">CO2 Hydrogenation 	to CH3OH on Supported Cu Nanoparticles: Nature and Role of Ti in Bulk Oxides vs Isolated Surface Sites</a>. 
+https://doi.org/10.1021/acs.jpcc.9b09631" target="_blank">CO2 Hydrogenation to CH3OH on Supported Cu Nanoparticles: Nature and Role of Ti in Bulk Oxides vs Isolated Surface Sites</a>. 
 <em>J. Phys. Chem. C</em>, 
 <b>2019</b>, 
 <em>123</em>, 
 31082
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref11.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 <strong>E. Lam</strong>, J.J. Corral-Pèrez, K. Larmier, G. Noh P. Wolf, A. Comas-Vives, A. Urakawa, C. Copéret
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1002/anie.201908060" data-type="URL" data-id="
@@ -212,7 +303,11 @@ https://doi.org/10.1002/anie.201908060" target="_blank">CO2 Hydrogenation on Cu/
 <em>131</em>, 
 14127
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref10.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 <strong>E. Lam</strong>, K. Larmier, S. Tada, P. Wolf, O.V. Safonova, C. Copéret
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1016/S1872-2067(19)63348-6" data-type="URL" data-id="
@@ -222,7 +317,11 @@ https://doi.org/10.1016/S1872-2067(19)63348-6" target="_blank">Zr(IV) Surface Si
 <em>40</em>, 
 1741
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref9.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 G. Noh, <strong>E. Lam</strong>, J.L. Alfke, K. Larmier, K. Searles, P. Wolf, C. Copéret
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1002/cssc.201900134" data-type="URL" data-id="
@@ -232,7 +331,11 @@ https://doi.org/10.1002/cssc.201900134" target="_blank">Selective Hydrogenation 
 <em>12</em>, 
 968
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref8.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 K.W. Chan, <strong>E. Lam</strong>, V. D'Anna, F. Allouche, C. Michel, O.V. Safonova, P. Sautet, C. Copéret
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1021/jacs.8b06603" data-type="URL" data-id="
@@ -242,7 +345,11 @@ https://doi.org/10.1021/jacs.8b06603" target="_blank">C-H Activation and Proton 
 <em>140</em>, 
 11395
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref7.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 <strong>E. Lam</strong>, C. Copéret
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1002/hlca.201800120" data-type="URL" data-id="
@@ -252,7 +359,11 @@ https://doi.org/10.1002/hlca.201800120" target="_blank">Understanding Trends in 
 <em>101</em>, 
 e1800120
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref6.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 <strong>E. Lam</strong>, K. Larmier, P. Wolf, S. Tada, O.V. Safonova, C. Copéret
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1021/jacs.8b05595" data-type="URL" data-id="
@@ -262,17 +373,25 @@ https://doi.org/10.1021/jacs.8b05595" target="_blank">Isolated Zr Surface Sites 
 <em>140</em>, 
 10530
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref5.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 <strong>E. Lam</strong>, A. Comas-Vives, C. Copéret
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1021/acs.jpcc.7b07872" data-type="URL" data-id="
-https://doi.org/10.1021/acs.jpcc.7b07872" target="_blank">Role of Coordination Number, Geometry, and Local Disorder on 27Al NMR Chemical Shifts and Quadrupolar Coupling Constants: Case Study with 	Aluminosilicates</a>. 
+https://doi.org/10.1021/acs.jpcc.7b07872" target="_blank">Role of Coordination Number, Geometry, and Local Disorder on 27Al NMR Chemical Shifts and Quadrupolar Coupling Constants: Case Study with Aluminosilicates</a>. 
 <em>J. Phys. Chem. C</em>, 
 <b>2017</b>, 
 <em>121</em>, 
 19946
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref9.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 D.P. Estes, A.K. Cook, <strong>E. Lam</strong>, L. Wong, C. Copéret
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1021/acs.inorgchem.7b00443" data-type="URL" data-id="
@@ -282,7 +401,11 @@ https://doi.org/10.1021/acs.inorgchem.7b00443" target="_blank">Understanding the
 <em>56</em>, 
 7731
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref3.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 K. Larmier, W.-C. Liao, S. Tada, <strong>E. Lam</strong>, R. Verel, A. Bansode, A. Urakawa, A. Comas-Vivees, C. Copéret
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1002/anie.201610166" data-type="URL" data-id="
@@ -292,7 +415,11 @@ https://doi.org/10.1002/anie.201610166" target="_blank">CO2-to-Methanol Hydrogen
 <em>129</em>, 
 2358
 </li>
-<li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref2.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
 D. Martinez-Solorio, B. Belilo, L. Sanchez, Y. Liang, E. Lam, K.N. Houk, A.B. Smith III
 <a rel="noreferrer noopener" href="
 https://doi.org/10.1021/jacs.5b13260" data-type="URL" data-id="
@@ -303,4 +430,9 @@ https://doi.org/10.1021/jacs.5b13260" target="_blank">Design, Synthesis, and Val
 1836
 <div data-badge-type="2" data-doi="10.1021/jacs.5b13260" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div></li>
 </li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref1.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
 </ol>
+## 

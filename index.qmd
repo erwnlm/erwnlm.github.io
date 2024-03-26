@@ -7,7 +7,9 @@ title: "Erwin Lam"
     text-align: justify;
   }
 </style>
+
+
 <ol>
 ### About me
-I studied Chemistry at ETH Zurich and completed my doctoral studies in the group of Prof. Christophe Coperet on understanding heterogeneous catalysts by combining synthetic, spectroscopic and computational methods. Afterwards I worked in the group of Prof. Erwin Reisner at the University of Cambridge UK, developing electro-​ and photocatalytic approaches for the valorization of waste chemicals. Since 2022, I joined Swiss CAT+ at ETH Zürich as a Scientist focusing on  chemical data analysis and management, and developing automated high-​throughput workflows in catalysis.
+I studied Chemistry at ETH Zurich and completed my doctoral studies in the group of Prof. Christophe Coperet on understanding heterogeneous catalysts by combining synthetic, spectroscopic and computational methods. Afterwards I worked in the group of Prof. Erwin Reisner at the University of Cambridge UK, developing electro-​ and photocatalytic approaches for the valorization of waste chemicals. Since 2022, I joined Swiss CAT+ at ETH Zurich as a Scientist focusing on  chemical data analysis and management, and developing automated high-​throughput workflows in catalysis.
 </ol>
