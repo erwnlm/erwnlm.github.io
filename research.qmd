@@ -14,13 +14,12 @@ A full list is available from the following <a href="https://scholar.google.com/
 ## Journal Articles
 <ol reversed>
 <li id="hover-text">
-D. Kim, S. Bhattacharjee, <strong>E. Lam</strong>, C. Casadevall, S. Rodriguez-Jimenez, E. Reisner  
+D. Kim, S. Bhattacharjee, <strong>E. Lam</strong>, C. Casadevall, S. Rodriguez-Jimenez, E. Reisner 
 <a rel="noreferrer noopener" href="
 https://onlinelibrary.wiley.com/doi/10.1002/smll.202400057" data-type="URL" data-id="
 https://onlinelibrary.wiley.com/doi/10.1002/smll.202400057" target="_blank">Photocatalytic CO2 Reduction Using Homogeneous Carbon Dots with a Molecular Cobalt Catalyst</a>. 
 <em>Small.</em>, 
 <b>2024</b>, 
-<em>NA</em>, 
 2400057
 </li>
 <div id="image-container">
