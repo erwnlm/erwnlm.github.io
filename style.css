@@ -1,0 +1,158 @@
+@charset "UTF-8";
+/* Inspired by schwallergroup.github.io */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;500;600;700;800&display=swap&family=IBM+Plex+Sans:wght@400;500;600;700;800&display=swap');
+:root {
+  --background: linear-gradient(100deg, rgb(38, 30, 30), #05edfe);
+  --background2: linear-gradient(100deg, rgba(241, 241, 241, 0.257), #e8e8e87e);
+  --navbar2: white;
+  --navbar: #0026ff;
+  --text-color: black;
+  --banner: #413D3A;
+  --line-color: blue;
+  --dropdown-bg-color: rgba(241, 241, 241, 1);
+  --dropdown-text-color: green;
+  --banner: #e8e8e87e;
+}
+
+body {
+  background: var(--background2);
+  color: rgba(0, 0, 0, 0.95);
+  font-style: normal;
+  font-weight: 400;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+
+a:link {
+  color: black;
+}
+
+a:link:hover {
+  color: blue;
+}
+
+a:visited {
+  color: black;
+}
+
+
+.title {
+  font-style: bold;
+  font-stretch: 100%;
+  font-weight: 500;
+  font-family: 'IBM Plex Sans', sans-serif;
+  padding: 4px 8px;
+  border-radius: 6px;
+}
+
+
+
+.img-round:hover {
+  opacity: 0.6;
+}
+
+.img-round {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  width: 30%;
+  padding: 10px;
+  cursor: pointer;
+  transition: opacity 0.1s ease-in-out;
+}
+
+
+#image-container {
+  display: none;
+}
+
+#hover-image {
+  max-width: 400px; /* Adjust size as needed */
+}
+
+#hover-text:hover + #image-container {
+  display: block;
+}
+
+.center {
+  text-align: center;
+}
+
+
+.navbar {
+  background: var(--navbar2);
+  text-align: left;
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 700;
+  font-family: 'IBM Plex Sans', sans-serif;
+  padding: 8px;
+  background-color: silver
+}
+
+.quarto-title-banner {
+  background: var(--banner);
+}
+
+
+
+.navbar-title {
+  position: relative;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-style: normal;
+  font-stretch: 200%;
+  font-weight: 700;
+  padding: 4px 8px;
+  margin-right: 5px;
+  color: blue;
+  letter-spacing: 1.25px;
+  transition: border-color 0.1s, color 0.1s;
+  background-color: silver;
+}
+
+
+.navbar-title::before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 2.5px;
+  background: blue;
+  transition: width 0.5s ease-in-out;
+}
+
+.navbar-title:hover::before {
+  width: 100%;
+}
+
+.menu-text {
+  color: black;
+  font-style: bold;
+}
+
+.fa-lg{
+color: black;
+}
+
+.nav-item {
+  position: relative;
+
+}
+
+
+.nav-item::before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 3px;
+  background: var(--line-color);
+  transition: width 0.5s ease-in-out;
+}
+
+.nav-item:hover::before {
+  width: 100%;
+}
