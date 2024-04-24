@@ -11,6 +11,7 @@ website:
     left:
       - CV.qmd
       - research.qmd
+      - datavisualization.qmd
 #      - text: Project
 #        menu: 
 #          - project1.qmd
