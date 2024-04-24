@@ -20,7 +20,7 @@ import  seaborn as sns
 import plotly.graph_objs as go
 from plotly.subplots import make_subplots
 
-data = pd.read_excel('data/data_set_performance.xlsx' )
+data = pd.read_excel('data_set_performance.xlsx' )
 
 # Define datarange range
 start = 16
