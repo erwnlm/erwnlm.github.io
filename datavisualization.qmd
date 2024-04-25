@@ -5,14 +5,14 @@ format:
     code-fold: true
 ---
 
-Interactive Visualization Dashboard of CO2-to-MeOH Conversion Catalysts Performance
+Interactive Visualization Dashboard for CO2-to-MeOH Conversion Catalysts Performance
 ```{=html}
 <iframe width="1000" height="600" src="https://lookerstudio.google.com/embed/reporting/b917fa98-c494-4779-b0a1-971fee54337e/page/4iY5C" title="Webpage example"></iframe>
 
 ```
 ```
 ```
-Python Plotly Interactive Plots for Propane Oxidation Reaction
+Python Plotly Interactive Plots for Propane Oxidation Performance
 Source: DOI: 10.1021/jacs.2c11117
 ```{python}
 import pandas as pd
@@ -53,8 +53,8 @@ for s in data.catalyst.unique():
     n = n+1
 
 # Update xaxis properties
-chart1.update_xaxes(title_text='Temperature (h)',row=1, col=1)
-chart1.update_xaxes(title_text='Temperature (h)',row=1, col=2)
+chart1.update_xaxes(title_text='Temperature (°C)',row=1, col=1)
+chart1.update_xaxes(title_text='Temperature (°C)',row=1, col=2)
 
 # Update yaxis properties
 chart1.update_yaxes(title_text='Propane Conversion (%)', row=1, col=1)
