@@ -12,13 +12,68 @@ title: "Research"
 A full list is available from the following <a href="https://scholar.google.com/citations?user=IWLDxjsAAAAJ">Google Scholar</a> profile.
 
 ## Journal Articles
-<ol reversed>
+<ol reversed><li id="hover-text">
+W. Zhou, S.R. Docherty, <strong>E. Lam</strong>, C. Ehinger, X. Zhou, Y. Hou, P. Laveille, C. Copéret
+<a rel="noreferrer noopener" href="
+https://pubs.acs.org/doi/abs/10.1021/jacs.5c01751" data-type="URL" data-id="
+https://pubs.acs.org/doi/abs/10.1021/jacs.5c01751" target="_blank">Conversion of Syngas to Ethanol over a RhFe Alloy Catalyst</a>. 
+<em>J. Am. Chem. Soc.</em>, 
+<b>2025</b>, 
+<em>147</em>, 
+12890-12896
+</li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref34.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
+S. Kar, D. Kim, A.B.M. Annuar, B.B. Sarma, M. Stanton, <strong>E. Lam</strong>, S. Bhattacharjee, S. Karak, H.F. Greer, E. Reisner
+<a rel="noreferrer noopener" href="
+https://www.nature.com/articles/s41560-025-01714-y" data-type="URL" data-id="
+https://www.nature.com/articles/s41560-025-01714-y" target="_blank">Direct air capture of CO2 for solar fuel production in flow</a>. 
+<em>Nature Energy</em>, 
+<b>2025</b>, 
+<em>10</em>, 
+548-459
+</li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref33.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
+<strong>E. Lam</strong>, T. Maury, S. Preiss, Y. Hou, H. Frey, C. Barillari, P. Laveille
+<a rel="noreferrer noopener" href="
+https://pubs.rsc.org/en/content/articlelanding/2025/dd/d4dd00350k" data-type="URL" data-id="
+https://pubs.rsc.org/en/content/articlelanding/2025/dd/d4dd00350k" target="_blank">General data management workflow to process tabular data in automated and high-throughput heterogeneous catalysis research</a>. 
+<em>Digital Discovery</em>, 
+<b>2025</b>, 
+<em>4</em>, 
+539-547
+</li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref32.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
+<li id="hover-text">
+S. Kalathil, M. Rahaman, <strong>E. Lam</strong>, T.L. Augustin, H.F. Greer, E. Reisner 
+<a rel="noreferrer noopener" href="
+https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202409192" data-type="URL" data-id="
+https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202409192" target="_blank">Solar-Driven Methanogenesis through Microbial Ecosystem Engineering on Carbon Nitride</a>. 
+<em>Angew. Chem., Int. Ed.</em>, 
+<b>2024</b>, 
+<em>63</em>, 
+e202409192
+</li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref31.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF -->
 <li id="hover-text">
 D. Kim, S. Bhattacharjee, <strong>E. Lam</strong>, C. Casadevall, S. Rodriguez-Jimenez, E. Reisner 
 <a rel="noreferrer noopener" href="
 https://onlinelibrary.wiley.com/doi/10.1002/smll.202400057" data-type="URL" data-id="
 https://onlinelibrary.wiley.com/doi/10.1002/smll.202400057" target="_blank">Photocatalytic CO2 Reduction Using Homogeneous Carbon Dots with a Molecular Cobalt Catalyst</a>. 
-<em>Small.</em>, 
+<em>Small</em>, 
 <b>2024</b>, 
 2400057
 </li>
