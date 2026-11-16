@@ -13,6 +13,19 @@ A full list is available from the following <a href="https://scholar.google.com/
 
 ## Journal Articles
 <ol reversed><li id="hover-text">
+<strong>E. Lam</strong>, K. Shariat, L. Chevalier, G. Draznieks, S. Sussex, R. De Santi, S. Brugger, T. Gradinger, Y. Hou, H. Frey, M. Mutny, A. Krause, C. Copéret, P. Laveille
+<a rel="noreferrer noopener" href="
+https://doi.org/10.1021/acscatal.6c02731" data-type="URL" data-id="
+https://doi.org/10.1021/acscatal.6c02731" target="_blank">Case Study of Bayesian Batch Optimization Strategies for Heterogeneous Catalysts in CO2 Hydrogenation</a>. 
+<em>ACS Catal.</em>, 
+<b>2026</b>, 
+<em>16</em>, 
+18986–19000
+</li>
+<div id="image-container">
+  <img id="hover-image" src="images/TOC/Ref35.png" alt="Hover Image" style="display: block; margin: 0 auto;">
+</div>
+<!-- NEXT REF --><ol reversed><li id="hover-text">
 W. Zhou, S.R. Docherty, <strong>E. Lam</strong>, C. Ehinger, X. Zhou, Y. Hou, P. Laveille, C. Copéret
 <a rel="noreferrer noopener" href="
 https://pubs.acs.org/doi/abs/10.1021/jacs.5c01751" data-type="URL" data-id="
